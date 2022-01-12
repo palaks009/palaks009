@@ -1,6 +1,6 @@
 👋 Hello, I’m Palak
-👀 always looking for opportunities to create and learn
-🌱 I’m currently learning Angular
+👀 always looking for opportunities to create and learn and currently,
+🌱 I’m learning Angular
 
 
 
