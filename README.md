@@ -1,4 +1,4 @@
-👋 Hello, I’m Palak
+👋 Hello, I’m Palak;
 👀 always looking for opportunities to create and learn and currently,
 🌱 I’m learning Angular
 
